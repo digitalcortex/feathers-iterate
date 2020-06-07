@@ -5,11 +5,11 @@ Adds a `.iterate()` method to services in [Feathers.js](https://feathersjs.com/)
 
 ## Install
 ```bash
-npm install feathers-iterate --save
+npm install https://github.com/digitalcortex/feathers-iterate.git --save
 ```
 or
 ```bash
-yarn add feathers-iterate
+yarn add https://github.com/digitalcortex/feathers-iterate.git
 ```
 
 Configure on server and client
